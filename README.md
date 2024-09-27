@@ -1,6 +1,6 @@
 ### README.md for Backend
 
-```markdown
+
 # Property Rental Platform - Backend
 
 This is the backend for the Property Rental Platform, providing user authentication functionalities, including registration and login.
